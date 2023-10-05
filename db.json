@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": "admin",
+      "lastName": "s",
+      "email": "admin@gmail.com",
+      "password": "12345",
+      "conf": "12345",
+      "country": ""
+    },
+    {
+      "id": "vijayashalini",
+      "lastName": "s",
+      "email": "vijayashalini@gmail.com",
+      "password": "123456789",
+      "conf": "123456789",
+      "country": ""
+    }
+  ]
+}
